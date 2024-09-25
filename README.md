@@ -27,4 +27,4 @@ The **College Application Countdown** app is designed to assist students in orga
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CollegeAppCountdown.git
+   git clone git@github.com:jnmasterjn/CollegeAppTracker.git
