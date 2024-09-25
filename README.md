@@ -24,7 +24,3 @@ The **College Application Countdown** app is designed to assist students in orga
 
 1. **Prerequisites**:
    - Python 3.x installed on your computer.
-
-2. **Clone the Repository**:
-   ```bash
-   git clone git@github.com:jnmasterjn/CollegeAppTracker.git
